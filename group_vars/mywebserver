@@ -1,4 +1,4 @@
 ---
 
-mywebserverpackonubuntu: apache2
+mywebserverpackonubuntu: apache22
 mywebserverpackonredhat: httpd

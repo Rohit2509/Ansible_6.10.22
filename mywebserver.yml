@@ -1,6 +1,7 @@
 ---
 - hosts: mywebserver
   become: yes
+  gather_facts: yes
   tasks:
    - name: install webserver on ubuntu ansible nodes
      apt:
